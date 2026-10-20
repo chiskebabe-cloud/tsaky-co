@@ -1,0 +1,12 @@
+{
+  "name": "tsaky-co-commandes",
+  "version": "1.0.0",
+  "description": "Site de prise de commandes TSAKY & CO",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
